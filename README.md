@@ -64,9 +64,3 @@ qr-code-generator/
 ├── preview.png
 └── README.md
 ```
-
-* Customize this for **React / Next.js**
-* Add **badges** (stars, license, demo link)
-* Write a **shorter or more advanced README**
-
-Just tell me 👍
