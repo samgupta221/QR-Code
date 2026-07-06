@@ -1,66 +1,53 @@
-# 📱 QR Code Generator
+# 🔳 QR Code Generator
 
-A simple and modern **QR Code Generator** web application that allows users to generate QR codes from any text or URL instantly.
+A simple and responsive QR Code Generator built using **HTML**, **CSS**, and **JavaScript**. Users can instantly generate QR codes for any text or URL.
 
----
+## 🌐 Live Demo
 
-## 🚀 Features
-
-* 🔤 Generate QR codes from **text or URLs**
-* ⚡ Instant QR code generation
-* 🎨 Clean and responsive UI
-* 💻 Works on desktop and mobile browsers
-* 📷 High-quality, scannable QR codes
+🚀 **Try it here:** https://qr-code-seven-beryl.vercel.app/
 
 ---
 
-## 🛠️ Built With
+## ✨ Features
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **QR Code Library** (e.g. `qrcode.js` / `QRCode.js`)
-
----
-
-## 📦 Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd qr-code-generator
-   ```
-
-3. Open `index.html` in your browser:
-
-   ```bash
-   open index.html
-   ```
+- 🔗 Generate QR codes for any text or URL
+- ⚡ Instant QR code generation
+- 📱 Responsive design
+- 🎨 Clean and modern UI
+- ❌ Input validation with error animation
+- 🌐 Powered by QR Server API
 
 ---
 
-## 🧑‍💻 Usage
+## 🛠️ Tech Stack
 
-1. Enter any **text or URL** in the input field.
-2. Click the **Generate QR Code** button.
-3. Scan the generated QR code using any QR scanner.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- QR Server API
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```bash
-qr-code-generator/
-│
-├── index.html
-├── style.css
-├── script.js
-├── preview.png
-└── README.md
 ```
+QR-Code-Generator/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+## 📖 Usage
+
+1. Enter any text or URL.
+2. Click **Generate QR Code**.
+3. Scan the generated QR code using your phone.
+
+---
+
+## 🌍 Live Demo
+
+https://qr-code-seven-beryl.vercel.app/
+
+---
